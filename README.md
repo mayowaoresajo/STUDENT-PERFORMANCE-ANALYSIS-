@@ -140,7 +140,7 @@ Student-Performance-Dashboard/
 ##  Author  
 **ORESAJO CORNELIUS**  
 Data Analyst
-"oresajocornelius@gmail.com"
+oresajocornelius@gmail.com
 ---
 
 > **"Turning data into smarter classrooms."**  
