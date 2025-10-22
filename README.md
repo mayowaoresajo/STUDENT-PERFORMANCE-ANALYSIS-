@@ -10,7 +10,7 @@ The Student Academic Performance Dataset contains comprehensive information on s
 
 ---
 
-## # Project Overview  
+##  Project Overview  
 
 **Title:** *Student Performance Analysis Dashboard*  
 **Dataset:** Kaggle (420 Students, 13 Columns)  
@@ -18,7 +18,7 @@ The Student Academic Performance Dataset contains comprehensive information on s
 
 ---
 
-## # What Was Done?
+##  What Was Done?
 
 1. **Downloaded** dataset from Kaggle  
 2. **Cleaned & transformed** data using **Power Query** in Excel  
@@ -32,7 +32,7 @@ The Student Academic Performance Dataset contains comprehensive information on s
 
 ---
 
-## # Key Visualizations (Power BI)
+##  Key Visualizations (Power BI)
 
 | Visualization | Insight |
 |---------------|--------|
@@ -45,7 +45,7 @@ The Student Academic Performance Dataset contains comprehensive information on s
 
 ---
 
-## # Business Questions & Insights
+##  Business Questions & Insights
 
 | # | Question | Insight & Action |
 |---|--------|------------------|
@@ -59,14 +59,14 @@ The Student Academic Performance Dataset contains comprehensive information on s
 
 ---
 
-## # Regression Analysis
+##  Regression Analysis
 
-### # Effect of Subjects on **Total Score**
+###  Effect of Subjects on **Total Score**
 - **Multiple R:** `1.0`  
 - **R Square:** `1.0` → **Perfect fit** (Total = Sum of subjects)  
 - All coefficients = `1` → Expected
 
-### # Effect of Subjects on **Overall Percentage**
+###  Effect of Subjects on **Overall Percentage**
 - **Multiple R:** `0.99999`  
 - **R Square:** `0.99998` → **Extremely strong prediction**  
 - **Mathematics Coefficient:** `1.7159E+05` → **Highest impact**  
@@ -76,7 +76,7 @@ The Student Academic Performance Dataset contains comprehensive information on s
 
 ---
 
-## # Tools & Techniques
+##  Tools & Techniques
 
 | Tool | Purpose |
 |------|--------|
@@ -87,7 +87,7 @@ The Student Academic Performance Dataset contains comprehensive information on s
 
 ---
 
-## # Project Structure (GitHub Repo)
+##  Project Structure (GitHub Repo)
 
 ```bash
 Student-Performance-Dashboard/
@@ -113,7 +113,7 @@ Student-Performance-Dashboard/
 
 ---
 
-## # Key Takeaways
+##  Key Takeaways
 
 - **Mathematics = strongest predictor** of success  
 - **Grade 3 males outperform** → Investigate teaching methods  
@@ -123,7 +123,7 @@ Student-Performance-Dashboard/
 
 ---
 
-## # Why This Project Stands Out
+##  Why This Project Stands Out
 
 - Full **data pipeline**: Raw → Clean → Insights → Dashboard  
 - **Statistical rigor** (p < 0.001)  
@@ -132,12 +132,12 @@ Student-Performance-Dashboard/
 
 ---
 
-## # Live Dashboard (Simulated)
+##  Live Dashboard (Simulated)
 > *Embed Power BI report in portfolio or share .pbix file*
 
 ---
 
-## # Author  
+##  Author  
 **ORESAJO CORNELIUS**  
 Data Analyst
 ---
