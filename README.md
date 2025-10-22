@@ -2,7 +2,6 @@
 
 <img width="1200" height="1200" alt="Image" src="https://github.com/user-attachments/assets/08e9c24b-83cf-40cd-9622-bc5116c2017a" />
 
-<img width="598" height="410" alt="Image" src="https://github.com/user-attachments/assets/e172f97a-1233-42ef-8d53-69fe8529c592" />
 
 The Student Academic Performance Dataset contains comprehensive information on student grades and subject scores across multiple classes and sections.
 # Student Performance Analysis Dashboard – Portfolio Project  
