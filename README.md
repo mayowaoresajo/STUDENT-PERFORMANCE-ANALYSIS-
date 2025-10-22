@@ -135,7 +135,7 @@ Student-Performance-Dashboard/
 
 ## # Author  
 **ORESAJO CORNELIUS**  
-Data Analyst | Educational Analytics
+Data Analyst
 ---
 
 > **"Turning data into smarter classrooms."**  
@@ -145,8 +145,3 @@ Data Analyst | Educational Analytics
 
 **Star this repo if helpful!**  
 *Fork and adapt for your school.*  
-
---- 
-
-*Copy & paste this directly into your GitHub `README.md` — all headers use `#` for proper GitHub Markdown rendering.*
-
