@@ -4,7 +4,7 @@
 
 
 The Student Academic Performance Dataset contains comprehensive information on student grades and subject scores across multiple classes and sections.
-# Student Performance Analysis Dashboard – Portfolio Project  
+# Student Performance Analysis Project  
 **GitHub README Report**  
 *Tools: Excel | Power Query | Power BI | Regression Analysis* 
 
